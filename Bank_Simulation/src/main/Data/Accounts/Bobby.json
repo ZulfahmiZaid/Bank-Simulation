@@ -1,0 +1,30 @@
+[{
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "01.01.2022",
+    "amount": 200.0,
+    "description": "Paycheck",
+    "deposit": 100.0
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "date": "02.01.2022",
+    "amount": 200.0,
+    "description": "Bill",
+    "sender": "Bobby",
+    "recipient": "KFC"
+  }
+}, {
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "23/12/2023",
+    "amount": 100.0,
+    "description": "test",
+    "deposit": 50.0
+  }
+}]

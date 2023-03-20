@@ -1,0 +1,30 @@
+[{
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "01.01.2022",
+    "amount": 200.0,
+    "description": "Paycheck",
+    "deposit": 100.0
+  }
+}, {
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "01.01.2022",
+    "amount": -50.0,
+    "description": "Shopping",
+    "deposit": -75.0
+  }
+}, {
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "date": "03.01.2022",
+    "amount": 100.0,
+    "description": "Happy Birthday",
+    "sender": "Mom",
+    "recipient": "Bobby"
+  }
+}]

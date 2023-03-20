@@ -1,0 +1,30 @@
+[{
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "22/22/2000",
+    "amount": 300.0,
+    "description": "test",
+    "deposit": 150.0
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "date": "4/7/2018",
+    "amount": 1150.0,
+    "description": "testOutgoing",
+    "sender": "Test",
+    "recipient": "----"
+  }
+}, {
+  "CLASSNAME": "PAYMENT",
+  "INSTANCE": {
+    "incomingInterest": 0.5,
+    "outgoingInterest": 0.5,
+    "date": "9/1/2023",
+    "amount": 200.0,
+    "description": "new test",
+    "deposit": 100.0
+  }
+}]
