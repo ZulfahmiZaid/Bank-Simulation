@@ -15,7 +15,6 @@ The goal of this assignment is to familiarize oneself with Object Oriented Progr
 * Maven
 * Java
 <br>
-
 # Installation
 Setting Run Configurations in Intellij IDEA :
 
